@@ -7,6 +7,8 @@
 • Service Now, Azure DevOps, Jira Tools, MPP (Microsoft Project)
 • Statistical Analysis - Data
 • Microsoft Suite (Excel, Outlook, PPT, Word) – Highly Proficient
+• Statistical Analysis & Reasoning of Data
+
 
 ### Management Skills:
 
@@ -25,11 +27,11 @@
 
 ### Education
 
-- MS-Business Analytics, Franklin University, Columbus, Ohio 
+- MS-Business Analytics | Franklin University Columbus, Ohio 
 
 - MBA - Finance | Indian Institute of Management | Visakhapatnam, India
 
-- Bachelor of Technology - Electronics & Communication Engineering | JNT University, Kakinada | Visakhapatnam, India
+- Bachelor of Technology | Electronics & Communication Engineering | JNT University, Kakinada | Visakhapatnam, India
 
 
 		
