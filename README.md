@@ -1,5 +1,3 @@
-# Project Manager - Product Manager - Scrum Product Owner/Master - Business & Data Analyst
-
 ### Technical Skills: 
 
 • Business Intelligence - Tableau, Power BI (Data Visualization)
@@ -27,7 +25,7 @@
 
 ### Education
 
-- MS - Business Analytics | Franklin University | Columbus, Ohio 
+- MS-Business Analytics, Franklin University, Columbus, Ohio 
 
 - MBA - Finance | Indian Institute of Management | Visakhapatnam, India
 
