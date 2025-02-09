@@ -1,4 +1,4 @@
-### Technical Skills: 
+## Technical Skills: 
 
 • Business Intelligence - Tableau, Power BI (Data Visualization)
 • SQL – Data Management
@@ -10,7 +10,7 @@
 • Statistical Analysis & Reasoning of Data
 
 
-### Management Skills:
+## Management Skills:
 
 • Project Management Professional (PMP)– Program/Project Management Lifecycle Leadership (PMO)
 • Business Process Mapping
@@ -25,14 +25,26 @@
 • Sales: Up-selling & cross-selling
 
 
-### Education
+## Education
 
-- MS-Business Analytics | Franklin University Columbus, Ohio 
+- M.S., Business Analytics | Franklin University Columbus, Ohio 
+- MBA | Indian Institute of Management | Visakhapatnam, India
+- B.Tech, Electronics & Communication Engineering | JNT University, Kakinada | Visakhapatnam, India
 
-- MBA - Finance | Indian Institute of Management | Visakhapatnam, India
+## Work Experience
+**Faculty Services - Student Assistant @ Franklin University (_Jan 2025 - Present_)**
 
-- Bachelor of Technology | Electronics & Communication Engineering | JNT University, Kakinada | Visakhapatnam, India
+**Director - AI Data @ Retech Labs LLP (_May 2022 - Dec 2022_)**
 
+**Senior Manager - Projects & Operations @ iMerit Technologies (_Feb 2020 - May 2022_)**
+
+**Senior Project Manager (PMO) @ Deloitte US (_Feb 2019 - Jan 2020_)**
+
+**Technical Project Manager @ Nvidia Graphics Pvt Ltd (_Apr 2018 - Jan 2019_)**
+
+**Assistant Manager - Data @ Concentrix Daksh Pvt Ltd (_Mar 2017 - March 2018_)**
+
+**Business Analyst @ Ace Co. (_Dec 2013 - Feb 2017_)**
 
 		
 
