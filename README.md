@@ -27,12 +27,13 @@
 
 ## Education
 
-- M.S., Business Analytics | Franklin University Columbus, Ohio 
+- MS Business Analytics | Franklin University Columbus, Ohio 
 - MBA | Indian Institute of Management | Visakhapatnam, India
-- B.Tech, Electronics & Communication Engineering | JNT University, Kakinada | Visakhapatnam, India
+- B.Tech Electronics & Communication Engineering | JNT University, Kakinada | Visakhapatnam, India
 
 ## Work Experience
-**Faculty Services - Student Assistant @ Franklin University (_Jan 2025 - Present_)**
+
+**Faculty Services @ Franklin University (_Jan 2025 - Present_)**
 
 **Director - AI Data @ Retech Labs LLP (_May 2022 - Dec 2022_)**
 
